@@ -190,7 +190,7 @@ Runtime packages are available on NuGet. Install only the pieces your project ne
 
 ## 🛠 Roadmap
 
-_Gondwana is actively evolving, with an emphasis on strengthening the engine and its tooling rather than chasing feature-list sprawl._
+_Gondwana is actively evolving, with an emphasis on strengthening the engine and its tooling._
 
 - [ ] Supplemental level- and asset-design tooling
 - [ ] Additional samples, including tile-map and platformer demonstrations
